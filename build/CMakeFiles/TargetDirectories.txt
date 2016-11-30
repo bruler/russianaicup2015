@@ -1,0 +1,3 @@
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/build/CMakeFiles/edit_cache.dir
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/build/CMakeFiles/rebuild_cache.dir
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/build/CMakeFiles/RussianAICup2013.dir

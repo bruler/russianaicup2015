@@ -1,0 +1,292 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/MyStrategy.cpp
+MyStrategy.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/MyStrategy.h
+cmath
+-
+cstdlib
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/MyStrategy.h
+Strategy.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Strategy.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/RemoteProcessClient.cpp
+RemoteProcessClient.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/RemoteProcessClient.h
+algorithm
+-
+cstdlib
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/RemoteProcessClient.h
+string
+-
+vector
+-
+csimplesocket/ActiveSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/ActiveSocket.h
+model/Game.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Game.h
+model/Move.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Move.h
+model/PlayerContext.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/PlayerContext.h
+model/World.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Runner.cpp
+Runner.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Runner.h
+vector
+-
+MyStrategy.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/MyStrategy.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Runner.h
+string
+-
+RemoteProcessClient.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/RemoteProcessClient.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Strategy.cpp
+Strategy.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Strategy.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/Strategy.h
+model/Game.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Game.h
+model/Move.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Move.h
+model/World.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/ActiveSocket.cpp
+ActiveSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/ActiveSocket.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/ActiveSocket.h
+SimpleSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/SimpleSocket.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/HTTPActiveSocket.cpp
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/Host.h
+limits.h
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/PassiveSocket.cpp
+PassiveSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/PassiveSocket.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/PassiveSocket.h
+ActiveSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/ActiveSocket.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/SimpleSocket.cpp
+SimpleSocket.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/SimpleSocket.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/SimpleSocket.h
+sys/stat.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+errno.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netinet/tcp.h
+-
+netinet/ip.h
+-
+netdb.h
+-
+linux/if_packet.h
+-
+linux/if_packet.h
+-
+linux/if_ether.h
+-
+linux/if.h
+-
+sys/sendfile.h
+-
+sys/time.h
+-
+sys/uio.h
+-
+unistd.h
+-
+fcntl.h
+-
+io.h
+-
+winsock2.h
+-
+Ws2tcpip.h
+-
+Host.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/Host.h
+StatTimer.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/StatTimer.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/StatTimer.h
+string.h
+-
+Winsock2.h
+-
+time.h
+-
+stdio.h
+-
+sys/time.h
+-
+Host.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/csimplesocket/Host.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Bonus.cpp
+Bonus.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Bonus.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Bonus.h
+BonusType.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/BonusType.h
+RectangularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/RectangularUnit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/BonusType.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Car.cpp
+Car.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Car.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Car.h
+CarType.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CarType.h
+RectangularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/RectangularUnit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CarType.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CircularUnit.cpp
+CircularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CircularUnit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CircularUnit.h
+Unit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Unit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Direction.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Game.cpp
+Game.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Game.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Game.h
+vector
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Move.cpp
+Move.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Move.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Move.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/OilSlick.cpp
+OilSlick.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/OilSlick.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/OilSlick.h
+CircularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CircularUnit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Player.cpp
+Player.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Player.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Player.h
+string
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/PlayerContext.cpp
+PlayerContext.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/PlayerContext.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/PlayerContext.h
+vector
+-
+Car.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Car.h
+World.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Projectile.cpp
+Projectile.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Projectile.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Projectile.h
+CircularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/CircularUnit.h
+ProjectileType.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/ProjectileType.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/ProjectileType.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/RectangularUnit.cpp
+RectangularUnit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/RectangularUnit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/RectangularUnit.h
+Unit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Unit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/TileType.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Unit.cpp
+Unit.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Unit.h
+cmath
+-
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Unit.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.cpp
+World.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.h
+
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/World.h
+string
+-
+vector
+-
+Bonus.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Bonus.h
+Car.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Car.h
+Direction.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Direction.h
+OilSlick.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/OilSlick.h
+Player.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Player.h
+Projectile.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/Projectile.h
+TileType.h
+/home/cortana/Projects/CppProjects/Russian AI Cup/russianaicup2015/src/model/TileType.h
+
